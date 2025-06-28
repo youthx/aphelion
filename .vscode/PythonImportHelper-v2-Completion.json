@@ -1,0 +1,967 @@
+[
+    {
+        "label": "ctypes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "windll",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "POINTER",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "byref",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "c_int",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "c_void_p",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "wintypes",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "wintypes",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "windll",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "wintypes",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "windll",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "wintypes",
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "isExtraImport": true,
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "opengl",
+        "importPath": "aphelion.core.win32",
+        "description": "aphelion.core.win32",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "PIXELFORMATDESCRIPTOR",
+        "importPath": "aphelion.core.win32.pfd",
+        "description": "aphelion.core.win32.pfd",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.pfd",
+        "documentation": {}
+    },
+    {
+        "label": "WNDPROCTYPE",
+        "importPath": "aphelion.core.win32.types",
+        "description": "aphelion.core.win32.types",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "WNDCLASS",
+        "importPath": "aphelion.core.win32.types",
+        "description": "aphelion.core.win32.types",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "WPARAM",
+        "importPath": "aphelion.core.win32.types",
+        "description": "aphelion.core.win32.types",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "LPARAM",
+        "importPath": "aphelion.core.win32.types",
+        "description": "aphelion.core.win32.types",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "LRESULT",
+        "importPath": "aphelion.core.win32.types",
+        "description": "aphelion.core.win32.types",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "HWND",
+        "importPath": "aphelion.core.win32.types",
+        "description": "aphelion.core.win32.types",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "UINT",
+        "importPath": "aphelion.core.win32.types",
+        "description": "aphelion.core.win32.types",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "HCURSOR",
+        "importPath": "aphelion.core.win32.types",
+        "description": "aphelion.core.win32.types",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "create_opengl_context",
+        "importPath": "aphelion.core.win32.context",
+        "description": "aphelion.core.win32.context",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "delete_opengl_context",
+        "importPath": "aphelion.core.win32.context",
+        "description": "aphelion.core.win32.context",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "delete_opengl_context",
+        "importPath": "aphelion.core.win32.context",
+        "description": "aphelion.core.win32.context",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "_glClearColor",
+        "importPath": "aphelion.core.opengl",
+        "description": "aphelion.core.opengl",
+        "isExtraImport": true,
+        "detail": "aphelion.core.opengl",
+        "documentation": {}
+    },
+    {
+        "label": "_glEnable",
+        "importPath": "aphelion.core.opengl",
+        "description": "aphelion.core.opengl",
+        "isExtraImport": true,
+        "detail": "aphelion.core.opengl",
+        "documentation": {}
+    },
+    {
+        "label": "_glClear",
+        "importPath": "aphelion.core.opengl",
+        "description": "aphelion.core.opengl",
+        "isExtraImport": true,
+        "detail": "aphelion.core.opengl",
+        "documentation": {}
+    },
+    {
+        "label": "GL_DEPTH_TEST",
+        "importPath": "aphelion.core.opengl.constants",
+        "description": "aphelion.core.opengl.constants",
+        "isExtraImport": true,
+        "detail": "aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_BLEND",
+        "importPath": "aphelion.core.opengl.constants",
+        "description": "aphelion.core.opengl.constants",
+        "isExtraImport": true,
+        "detail": "aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_COLOR_BUFFER_BIT",
+        "importPath": "aphelion.core.opengl.constants",
+        "description": "aphelion.core.opengl.constants",
+        "isExtraImport": true,
+        "detail": "aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_DEPTH_BUFFER_BIT",
+        "importPath": "aphelion.core.opengl.constants",
+        "description": "aphelion.core.opengl.constants",
+        "isExtraImport": true,
+        "detail": "aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "_Win32Window",
+        "importPath": "aphelion.core.win32.window",
+        "description": "aphelion.core.win32.window",
+        "isExtraImport": true,
+        "detail": "aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "init_gl_functions",
+        "importPath": "aphelion.core.opengl.functions",
+        "description": "aphelion.core.opengl.functions",
+        "isExtraImport": true,
+        "detail": "aphelion.core.opengl.functions",
+        "documentation": {}
+    },
+    {
+        "label": "_WindowInstance",
+        "importPath": "aphelion.window",
+        "description": "aphelion.window",
+        "isExtraImport": true,
+        "detail": "aphelion.window",
+        "documentation": {}
+    },
+    {
+        "label": "GL_PROGRAM_BINARY_RETRIEVABLE_HINT",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_PROGRAM_BINARY_RETRIEVABLE_HINT = 0x8257\nGL_PROGRAM_BINARY_LENGTH       = 0x8741\nGL_PROGRAM_SEPARABLE           = 0x8258\n# --- Program pipeline parameters ---\nGL_PROGRAM_PIPELINE_BINDING  = 0x825A\n# --- Uniform types ---\nGL_FLOAT_VEC2                = 0x8B50\nGL_FLOAT_VEC3                = 0x8B51\nGL_FLOAT_VEC4                = 0x8B52\nGL_INT_VEC2                  = 0x8B53",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_SAMPLER_2D_MULTISAMPLE_ARRAY",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_SAMPLER_2D_MULTISAMPLE_ARRAY = 0x910B\nGL_INT_SAMPLER_1D            = 0x8DC9\nGL_INT_SAMPLER_2D            = 0x8DCA\nGL_INT_SAMPLER_3D            = 0x8DCB\nGL_INT_SAMPLER_CUBE          = 0x8DCC\nGL_INT_SAMPLER_1D_ARRAY      = 0x8DCF\nGL_INT_SAMPLER_2D_ARRAY      = 0x8DD0\nGL_INT_SAMPLER_2D_MULTISAMPLE= 0x9109\nGL_INT_SAMPLER_2D_MULTISAMPLE_ARRAY = 0x910C\nGL_UNSIGNED_INT_SAMPLER_1D   = 0x8DD1",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_INT_SAMPLER_2D_MULTISAMPLE_ARRAY",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_INT_SAMPLER_2D_MULTISAMPLE_ARRAY = 0x910C\nGL_UNSIGNED_INT_SAMPLER_1D   = 0x8DD1\nGL_UNSIGNED_INT_SAMPLER_2D   = 0x8DD2\nGL_UNSIGNED_INT_SAMPLER_3D   = 0x8DD3\nGL_UNSIGNED_INT_SAMPLER_CUBE = 0x8DD4\nGL_UNSIGNED_INT_SAMPLER_1D_ARRAY = 0x8DD6\nGL_UNSIGNED_INT_SAMPLER_2D_ARRAY = 0x8DD7\nGL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE = 0x910A\nGL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE_ARRAY = 0x910D\n# --- Texture targets ---",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_UNSIGNED_INT_SAMPLER_CUBE",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_UNSIGNED_INT_SAMPLER_CUBE = 0x8DD4\nGL_UNSIGNED_INT_SAMPLER_1D_ARRAY = 0x8DD6\nGL_UNSIGNED_INT_SAMPLER_2D_ARRAY = 0x8DD7\nGL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE = 0x910A\nGL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE_ARRAY = 0x910D\n# --- Texture targets ---\nGL_TEXTURE_1D                 = 0x0DE0\nGL_TEXTURE_2D                 = 0x0DE1\nGL_TEXTURE_3D                 = 0x806F\nGL_TEXTURE_1D_ARRAY           = 0x8C18",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_UNSIGNED_INT_SAMPLER_1D_ARRAY",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_UNSIGNED_INT_SAMPLER_1D_ARRAY = 0x8DD6\nGL_UNSIGNED_INT_SAMPLER_2D_ARRAY = 0x8DD7\nGL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE = 0x910A\nGL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE_ARRAY = 0x910D\n# --- Texture targets ---\nGL_TEXTURE_1D                 = 0x0DE0\nGL_TEXTURE_2D                 = 0x0DE1\nGL_TEXTURE_3D                 = 0x806F\nGL_TEXTURE_1D_ARRAY           = 0x8C18\nGL_TEXTURE_2D_ARRAY           = 0x8C1A",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_UNSIGNED_INT_SAMPLER_2D_ARRAY",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_UNSIGNED_INT_SAMPLER_2D_ARRAY = 0x8DD7\nGL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE = 0x910A\nGL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE_ARRAY = 0x910D\n# --- Texture targets ---\nGL_TEXTURE_1D                 = 0x0DE0\nGL_TEXTURE_2D                 = 0x0DE1\nGL_TEXTURE_3D                 = 0x806F\nGL_TEXTURE_1D_ARRAY           = 0x8C18\nGL_TEXTURE_2D_ARRAY           = 0x8C1A\nGL_TEXTURE_RECTANGLE          = 0x84F5",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE = 0x910A\nGL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE_ARRAY = 0x910D\n# --- Texture targets ---\nGL_TEXTURE_1D                 = 0x0DE0\nGL_TEXTURE_2D                 = 0x0DE1\nGL_TEXTURE_3D                 = 0x806F\nGL_TEXTURE_1D_ARRAY           = 0x8C18\nGL_TEXTURE_2D_ARRAY           = 0x8C1A\nGL_TEXTURE_RECTANGLE          = 0x84F5\nGL_TEXTURE_CUBE_MAP           = 0x8513",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE_ARRAY",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_UNSIGNED_INT_SAMPLER_2D_MULTISAMPLE_ARRAY = 0x910D\n# --- Texture targets ---\nGL_TEXTURE_1D                 = 0x0DE0\nGL_TEXTURE_2D                 = 0x0DE1\nGL_TEXTURE_3D                 = 0x806F\nGL_TEXTURE_1D_ARRAY           = 0x8C18\nGL_TEXTURE_2D_ARRAY           = 0x8C1A\nGL_TEXTURE_RECTANGLE          = 0x84F5\nGL_TEXTURE_CUBE_MAP           = 0x8513\nGL_TEXTURE_CUBE_MAP_POSITIVE_X= 0x8515",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_INVALID_FRAMEBUFFER_OPERATION",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_INVALID_FRAMEBUFFER_OPERATION = 0x0506\n# --- Polygon modes ---\nGL_POINT                    = 0x1B00\nGL_LINE                     = 0x1B01\nGL_FILL                     = 0x1B02\n# --- Stencil functions ---\nGL_NEVER                    = 0x0200\nGL_LESS                     = 0x0201\nGL_EQUAL                    = 0x0202\nGL_LEQUAL                   = 0x0203",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_SYNC_GPU_COMMANDS_COMPLETE",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_SYNC_GPU_COMMANDS_COMPLETE = 0x9117\nGL_ALREADY_SIGNALED         = 0x911A\nGL_TIMEOUT_EXPIRED          = 0x911B\nGL_CONDITION_SATISFIED      = 0x911C\nGL_WAIT_FAILED              = 0x911D\n# --- Query targets ---\nGL_SAMPLES_PASSED           = 0x8914\nGL_ANY_SAMPLES_PASSED       = 0x8C2F\nGL_PRIMITIVES_GENERATED     = 0x8C87\nGL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN = 0x8C88",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_TRANSFORM_FEEDBACK_PRIMITIVES_WRITTEN = 0x8C88\n# --- Sync objects ---\nGL_SYNC_FENCE               = 0x9116\n# --- Additional ---\nGL_MAJOR_VERSION            = 0x821B\nGL_MINOR_VERSION            = 0x821C\nGL_NUM_EXTENSIONS           = 0x821D\nGL_CONTEXT_FLAGS            = 0x821E\nGL_CONTEXT_PROFILE_MASK     = 0x9126\nGL_CONTEXT_CORE_PROFILE_BIT = 0x00000001",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_CONTEXT_CORE_PROFILE_BIT",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_CONTEXT_CORE_PROFILE_BIT = 0x00000001\nGL_CONTEXT_COMPATIBILITY_PROFILE_BIT = 0x00000002\n# --- Debug output ---\nGL_DEBUG_OUTPUT             = 0x92E0\nGL_DEBUG_OUTPUT_SYNCHRONOUS = 0x8242\nGL_DEBUG_SEVERITY_HIGH      = 0x9146\nGL_DEBUG_SEVERITY_MEDIUM    = 0x9147\nGL_DEBUG_SEVERITY_LOW       = 0x9148\nGL_DEBUG_SEVERITY_NOTIFICATION = 0x826B\n# --- Buffer storage flags (ARB) ---",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_CONTEXT_COMPATIBILITY_PROFILE_BIT",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_CONTEXT_COMPATIBILITY_PROFILE_BIT = 0x00000002\n# --- Debug output ---\nGL_DEBUG_OUTPUT             = 0x92E0\nGL_DEBUG_OUTPUT_SYNCHRONOUS = 0x8242\nGL_DEBUG_SEVERITY_HIGH      = 0x9146\nGL_DEBUG_SEVERITY_MEDIUM    = 0x9147\nGL_DEBUG_SEVERITY_LOW       = 0x9148\nGL_DEBUG_SEVERITY_NOTIFICATION = 0x826B\n# --- Buffer storage flags (ARB) ---\nGL_MAP_READ_BIT             = 0x0001",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_DEBUG_OUTPUT_SYNCHRONOUS",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_DEBUG_OUTPUT_SYNCHRONOUS = 0x8242\nGL_DEBUG_SEVERITY_HIGH      = 0x9146\nGL_DEBUG_SEVERITY_MEDIUM    = 0x9147\nGL_DEBUG_SEVERITY_LOW       = 0x9148\nGL_DEBUG_SEVERITY_NOTIFICATION = 0x826B\n# --- Buffer storage flags (ARB) ---\nGL_MAP_READ_BIT             = 0x0001\nGL_MAP_WRITE_BIT            = 0x0002\nGL_MAP_INVALIDATE_RANGE_BIT = 0x0004\nGL_MAP_INVALIDATE_BUFFER_BIT= 0x0008",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_DEBUG_SEVERITY_NOTIFICATION",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_DEBUG_SEVERITY_NOTIFICATION = 0x826B\n# --- Buffer storage flags (ARB) ---\nGL_MAP_READ_BIT             = 0x0001\nGL_MAP_WRITE_BIT            = 0x0002\nGL_MAP_INVALIDATE_RANGE_BIT = 0x0004\nGL_MAP_INVALIDATE_BUFFER_BIT= 0x0008\nGL_MAP_FLUSH_EXPLICIT_BIT   = 0x0010\nGL_MAP_UNSYNCHRONIZED_BIT   = 0x0020\n# --- Texture swizzle ---\nGL_TEXTURE_SWIZZLE_R        = 0x8E42",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_MAP_INVALIDATE_RANGE_BIT",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_MAP_INVALIDATE_RANGE_BIT = 0x0004\nGL_MAP_INVALIDATE_BUFFER_BIT= 0x0008\nGL_MAP_FLUSH_EXPLICIT_BIT   = 0x0010\nGL_MAP_UNSYNCHRONIZED_BIT   = 0x0020\n# --- Texture swizzle ---\nGL_TEXTURE_SWIZZLE_R        = 0x8E42\nGL_TEXTURE_SWIZZLE_G        = 0x8E43\nGL_TEXTURE_SWIZZLE_B        = 0x8E44\nGL_TEXTURE_SWIZZLE_A        = 0x8E45\n# --- Geometry shader input/output types ---",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GL_COMPRESSED_RGB_S3TC_DXT1_EXT",
+        "kind": 5,
+        "importPath": "src.aphelion.core.opengl.constants",
+        "description": "src.aphelion.core.opengl.constants",
+        "peekOfCode": "GL_COMPRESSED_RGB_S3TC_DXT1_EXT = 0x83F0\nGL_COMPRESSED_RGBA_S3TC_DXT1_EXT= 0x83F1\nGL_COMPRESSED_RGBA_S3TC_DXT3_EXT= 0x83F2\nGL_COMPRESSED_RGBA_S3TC_DXT5_EXT= 0x83F3\n# (Add more extensions and enums as you need)",
+        "detail": "src.aphelion.core.opengl.constants",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "kind": 2,
+        "importPath": "src.aphelion.core.opengl.functions",
+        "description": "src.aphelion.core.opengl.functions",
+        "peekOfCode": "def bind(name, restype=None, argtypes=()):\n    return _gl.load_function(name, restype, argtypes)\n# Function pointer container to track load state\ndef init_gl_functions():\n    global _glClearColor_core, _glClear_core, _glViewport_core, _glEnable_core, _glDisable_core\n    global _glGenBuffers_core, _glBindBuffer_core, _glBufferData_core\n    global _glCreateShader_core, _glShaderSource_core, _glCompileShader_core\n    global _glGetShaderiv_core, _glGetShaderInfoLog_core\n    global _glCreateProgram_core, _glAttachShader_core, _glLinkProgram_core\n    global _glGetProgramiv_core, _glGetProgramInfoLog_core, _glUseProgram_core",
+        "detail": "src.aphelion.core.opengl.functions",
+        "documentation": {}
+    },
+    {
+        "label": "init_gl_functions",
+        "kind": 2,
+        "importPath": "src.aphelion.core.opengl.functions",
+        "description": "src.aphelion.core.opengl.functions",
+        "peekOfCode": "def init_gl_functions():\n    global _glClearColor_core, _glClear_core, _glViewport_core, _glEnable_core, _glDisable_core\n    global _glGenBuffers_core, _glBindBuffer_core, _glBufferData_core\n    global _glCreateShader_core, _glShaderSource_core, _glCompileShader_core\n    global _glGetShaderiv_core, _glGetShaderInfoLog_core\n    global _glCreateProgram_core, _glAttachShader_core, _glLinkProgram_core\n    global _glGetProgramiv_core, _glGetProgramInfoLog_core, _glUseProgram_core\n    global _glGetUniformLocation_core, _glUniformMatrix4fv_core\n    global _glDeleteShader_core, _glDeleteProgram_core\n    global _glGenVertexArrays_core, _glBindVertexArray_core",
+        "detail": "src.aphelion.core.opengl.functions",
+        "documentation": {}
+    },
+    {
+        "label": "is_opengl_context_active",
+        "kind": 2,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "def is_opengl_context_active() -> bool:\n    return bool(wgl.wglGetCurrentContext())\ndef create_opengl_context(hdc):\n    while is_opengl_context_active():\n        wgl.wglMakeCurrent(None, None)\n        wgl.wglDeleteContext(wgl.wglGetCurrentContext())\n    pfd = PIXELFORMATDESCRIPTOR()\n    pfd.nSize = ctypes.sizeof(PIXELFORMATDESCRIPTOR)\n    pfd.nVersion = 1\n    pfd.dwFlags = PFD_DRAW_TO_WINDOW | PFD_SUPPORT_OPENGL | PFD_DOUBLEBUFFER",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "create_opengl_context",
+        "kind": 2,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "def create_opengl_context(hdc):\n    while is_opengl_context_active():\n        wgl.wglMakeCurrent(None, None)\n        wgl.wglDeleteContext(wgl.wglGetCurrentContext())\n    pfd = PIXELFORMATDESCRIPTOR()\n    pfd.nSize = ctypes.sizeof(PIXELFORMATDESCRIPTOR)\n    pfd.nVersion = 1\n    pfd.dwFlags = PFD_DRAW_TO_WINDOW | PFD_SUPPORT_OPENGL | PFD_DOUBLEBUFFER\n    pfd.iPixelType = PFD_TYPE_RGBA\n    pfd.cColorBits = 32",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "delete_opengl_context",
+        "kind": 2,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "def delete_opengl_context(ctx):\n    wgl.wglMakeCurrent(None, None)\n    if not wgl.wglDeleteContext(ctx):\n        raise ctypes.WinError()",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "gdi32",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "gdi32 = windll.gdi32\nwgl = windll.opengl32\nPFD_DRAW_TO_WINDOW = 0x00000004\nPFD_SUPPORT_OPENGL = 0x00000020\nPFD_DOUBLEBUFFER = 0x00000001\nPFD_TYPE_RGBA = 0\nPFD_MAIN_PLANE = 0\nwgl.wglCreateContext.restype = c_void_p\nwgl.wglCreateContext.argtypes = [c_void_p]\nwgl.wglMakeCurrent.restype = c_int",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "wgl",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "wgl = windll.opengl32\nPFD_DRAW_TO_WINDOW = 0x00000004\nPFD_SUPPORT_OPENGL = 0x00000020\nPFD_DOUBLEBUFFER = 0x00000001\nPFD_TYPE_RGBA = 0\nPFD_MAIN_PLANE = 0\nwgl.wglCreateContext.restype = c_void_p\nwgl.wglCreateContext.argtypes = [c_void_p]\nwgl.wglMakeCurrent.restype = c_int\nwgl.wglMakeCurrent.argtypes = [c_void_p, c_void_p]",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "PFD_DRAW_TO_WINDOW",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "PFD_DRAW_TO_WINDOW = 0x00000004\nPFD_SUPPORT_OPENGL = 0x00000020\nPFD_DOUBLEBUFFER = 0x00000001\nPFD_TYPE_RGBA = 0\nPFD_MAIN_PLANE = 0\nwgl.wglCreateContext.restype = c_void_p\nwgl.wglCreateContext.argtypes = [c_void_p]\nwgl.wglMakeCurrent.restype = c_int\nwgl.wglMakeCurrent.argtypes = [c_void_p, c_void_p]\nwgl.wglDeleteContext.restype = c_int",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "PFD_SUPPORT_OPENGL",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "PFD_SUPPORT_OPENGL = 0x00000020\nPFD_DOUBLEBUFFER = 0x00000001\nPFD_TYPE_RGBA = 0\nPFD_MAIN_PLANE = 0\nwgl.wglCreateContext.restype = c_void_p\nwgl.wglCreateContext.argtypes = [c_void_p]\nwgl.wglMakeCurrent.restype = c_int\nwgl.wglMakeCurrent.argtypes = [c_void_p, c_void_p]\nwgl.wglDeleteContext.restype = c_int\nwgl.wglDeleteContext.argtypes = [c_void_p]",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "PFD_DOUBLEBUFFER",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "PFD_DOUBLEBUFFER = 0x00000001\nPFD_TYPE_RGBA = 0\nPFD_MAIN_PLANE = 0\nwgl.wglCreateContext.restype = c_void_p\nwgl.wglCreateContext.argtypes = [c_void_p]\nwgl.wglMakeCurrent.restype = c_int\nwgl.wglMakeCurrent.argtypes = [c_void_p, c_void_p]\nwgl.wglDeleteContext.restype = c_int\nwgl.wglDeleteContext.argtypes = [c_void_p]\nwgl.wglGetCurrentContext.restype = ctypes.c_void_p",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "PFD_TYPE_RGBA",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "PFD_TYPE_RGBA = 0\nPFD_MAIN_PLANE = 0\nwgl.wglCreateContext.restype = c_void_p\nwgl.wglCreateContext.argtypes = [c_void_p]\nwgl.wglMakeCurrent.restype = c_int\nwgl.wglMakeCurrent.argtypes = [c_void_p, c_void_p]\nwgl.wglDeleteContext.restype = c_int\nwgl.wglDeleteContext.argtypes = [c_void_p]\nwgl.wglGetCurrentContext.restype = ctypes.c_void_p\ndef is_opengl_context_active() -> bool:",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "PFD_MAIN_PLANE",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "PFD_MAIN_PLANE = 0\nwgl.wglCreateContext.restype = c_void_p\nwgl.wglCreateContext.argtypes = [c_void_p]\nwgl.wglMakeCurrent.restype = c_int\nwgl.wglMakeCurrent.argtypes = [c_void_p, c_void_p]\nwgl.wglDeleteContext.restype = c_int\nwgl.wglDeleteContext.argtypes = [c_void_p]\nwgl.wglGetCurrentContext.restype = ctypes.c_void_p\ndef is_opengl_context_active() -> bool:\n    return bool(wgl.wglGetCurrentContext())",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "wgl.wglCreateContext.restype",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "wgl.wglCreateContext.restype = c_void_p\nwgl.wglCreateContext.argtypes = [c_void_p]\nwgl.wglMakeCurrent.restype = c_int\nwgl.wglMakeCurrent.argtypes = [c_void_p, c_void_p]\nwgl.wglDeleteContext.restype = c_int\nwgl.wglDeleteContext.argtypes = [c_void_p]\nwgl.wglGetCurrentContext.restype = ctypes.c_void_p\ndef is_opengl_context_active() -> bool:\n    return bool(wgl.wglGetCurrentContext())\ndef create_opengl_context(hdc):",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "wgl.wglCreateContext.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "wgl.wglCreateContext.argtypes = [c_void_p]\nwgl.wglMakeCurrent.restype = c_int\nwgl.wglMakeCurrent.argtypes = [c_void_p, c_void_p]\nwgl.wglDeleteContext.restype = c_int\nwgl.wglDeleteContext.argtypes = [c_void_p]\nwgl.wglGetCurrentContext.restype = ctypes.c_void_p\ndef is_opengl_context_active() -> bool:\n    return bool(wgl.wglGetCurrentContext())\ndef create_opengl_context(hdc):\n    while is_opengl_context_active():",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "wgl.wglMakeCurrent.restype",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "wgl.wglMakeCurrent.restype = c_int\nwgl.wglMakeCurrent.argtypes = [c_void_p, c_void_p]\nwgl.wglDeleteContext.restype = c_int\nwgl.wglDeleteContext.argtypes = [c_void_p]\nwgl.wglGetCurrentContext.restype = ctypes.c_void_p\ndef is_opengl_context_active() -> bool:\n    return bool(wgl.wglGetCurrentContext())\ndef create_opengl_context(hdc):\n    while is_opengl_context_active():\n        wgl.wglMakeCurrent(None, None)",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "wgl.wglMakeCurrent.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "wgl.wglMakeCurrent.argtypes = [c_void_p, c_void_p]\nwgl.wglDeleteContext.restype = c_int\nwgl.wglDeleteContext.argtypes = [c_void_p]\nwgl.wglGetCurrentContext.restype = ctypes.c_void_p\ndef is_opengl_context_active() -> bool:\n    return bool(wgl.wglGetCurrentContext())\ndef create_opengl_context(hdc):\n    while is_opengl_context_active():\n        wgl.wglMakeCurrent(None, None)\n        wgl.wglDeleteContext(wgl.wglGetCurrentContext())",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "wgl.wglDeleteContext.restype",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "wgl.wglDeleteContext.restype = c_int\nwgl.wglDeleteContext.argtypes = [c_void_p]\nwgl.wglGetCurrentContext.restype = ctypes.c_void_p\ndef is_opengl_context_active() -> bool:\n    return bool(wgl.wglGetCurrentContext())\ndef create_opengl_context(hdc):\n    while is_opengl_context_active():\n        wgl.wglMakeCurrent(None, None)\n        wgl.wglDeleteContext(wgl.wglGetCurrentContext())\n    pfd = PIXELFORMATDESCRIPTOR()",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "wgl.wglDeleteContext.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "wgl.wglDeleteContext.argtypes = [c_void_p]\nwgl.wglGetCurrentContext.restype = ctypes.c_void_p\ndef is_opengl_context_active() -> bool:\n    return bool(wgl.wglGetCurrentContext())\ndef create_opengl_context(hdc):\n    while is_opengl_context_active():\n        wgl.wglMakeCurrent(None, None)\n        wgl.wglDeleteContext(wgl.wglGetCurrentContext())\n    pfd = PIXELFORMATDESCRIPTOR()\n    pfd.nSize = ctypes.sizeof(PIXELFORMATDESCRIPTOR)",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "wgl.wglGetCurrentContext.restype",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.context",
+        "description": "src.aphelion.core.win32.context",
+        "peekOfCode": "wgl.wglGetCurrentContext.restype = ctypes.c_void_p\ndef is_opengl_context_active() -> bool:\n    return bool(wgl.wglGetCurrentContext())\ndef create_opengl_context(hdc):\n    while is_opengl_context_active():\n        wgl.wglMakeCurrent(None, None)\n        wgl.wglDeleteContext(wgl.wglGetCurrentContext())\n    pfd = PIXELFORMATDESCRIPTOR()\n    pfd.nSize = ctypes.sizeof(PIXELFORMATDESCRIPTOR)\n    pfd.nVersion = 1",
+        "detail": "src.aphelion.core.win32.context",
+        "documentation": {}
+    },
+    {
+        "label": "load_function",
+        "kind": 2,
+        "importPath": "src.aphelion.core.win32.opengl",
+        "description": "src.aphelion.core.win32.opengl",
+        "peekOfCode": "def load_function(name: str, restype=ctypes.c_void_p, argtypes=()):\n    addr = _get_proc_address(name)\n    if not addr:\n        raise RuntimeError(f\"OpenGL function '{name}' not found.\")\n    func = ctypes.CFUNCTYPE(restype, *argtypes)(addr)\n    func.restype, func.argtypes = restype, argtypes\n    return func",
+        "detail": "src.aphelion.core.win32.opengl",
+        "documentation": {}
+    },
+    {
+        "label": "_opengl32",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.opengl",
+        "description": "src.aphelion.core.win32.opengl",
+        "peekOfCode": "_opengl32 = ctypes.windll.opengl32\n_wglGetProcAddress = _opengl32.wglGetProcAddress\n_wglGetProcAddress.restype = ctypes.c_void_p\n_wglGetProcAddress.argtypes = [ctypes.c_char_p]\ndef _get_proc_address(name: str) -> int | None:\n    addr = _wglGetProcAddress(name.encode(\"ascii\"))\n    if addr and addr > 0x10000:\n        return addr\n    try:\n        return ctypes.cast(getattr(_opengl32, name), ctypes.c_void_p).value",
+        "detail": "src.aphelion.core.win32.opengl",
+        "documentation": {}
+    },
+    {
+        "label": "_wglGetProcAddress",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.opengl",
+        "description": "src.aphelion.core.win32.opengl",
+        "peekOfCode": "_wglGetProcAddress = _opengl32.wglGetProcAddress\n_wglGetProcAddress.restype = ctypes.c_void_p\n_wglGetProcAddress.argtypes = [ctypes.c_char_p]\ndef _get_proc_address(name: str) -> int | None:\n    addr = _wglGetProcAddress(name.encode(\"ascii\"))\n    if addr and addr > 0x10000:\n        return addr\n    try:\n        return ctypes.cast(getattr(_opengl32, name), ctypes.c_void_p).value\n    except AttributeError:",
+        "detail": "src.aphelion.core.win32.opengl",
+        "documentation": {}
+    },
+    {
+        "label": "_wglGetProcAddress.restype",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.opengl",
+        "description": "src.aphelion.core.win32.opengl",
+        "peekOfCode": "_wglGetProcAddress.restype = ctypes.c_void_p\n_wglGetProcAddress.argtypes = [ctypes.c_char_p]\ndef _get_proc_address(name: str) -> int | None:\n    addr = _wglGetProcAddress(name.encode(\"ascii\"))\n    if addr and addr > 0x10000:\n        return addr\n    try:\n        return ctypes.cast(getattr(_opengl32, name), ctypes.c_void_p).value\n    except AttributeError:\n        return None",
+        "detail": "src.aphelion.core.win32.opengl",
+        "documentation": {}
+    },
+    {
+        "label": "_wglGetProcAddress.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.opengl",
+        "description": "src.aphelion.core.win32.opengl",
+        "peekOfCode": "_wglGetProcAddress.argtypes = [ctypes.c_char_p]\ndef _get_proc_address(name: str) -> int | None:\n    addr = _wglGetProcAddress(name.encode(\"ascii\"))\n    if addr and addr > 0x10000:\n        return addr\n    try:\n        return ctypes.cast(getattr(_opengl32, name), ctypes.c_void_p).value\n    except AttributeError:\n        return None\ndef load_function(name: str, restype=ctypes.c_void_p, argtypes=()):",
+        "detail": "src.aphelion.core.win32.opengl",
+        "documentation": {}
+    },
+    {
+        "label": "PIXELFORMATDESCRIPTOR",
+        "kind": 6,
+        "importPath": "src.aphelion.core.win32.pfd",
+        "description": "src.aphelion.core.win32.pfd",
+        "peekOfCode": "class PIXELFORMATDESCRIPTOR(ctypes.Structure):\n    _fields_ = [\n        (\"nSize\",        wintypes.WORD),\n        (\"nVersion\",     wintypes.WORD),\n        (\"dwFlags\",      wintypes.DWORD),\n        (\"iPixelType\",   ctypes.c_byte),\n        (\"cColorBits\",   ctypes.c_byte),\n        (\"cRedBits\",     ctypes.c_byte),\n        (\"cRedShift\",    ctypes.c_byte),\n        (\"cGreenBits\",   ctypes.c_byte),",
+        "detail": "src.aphelion.core.win32.pfd",
+        "documentation": {}
+    },
+    {
+        "label": "WNDCLASS",
+        "kind": 6,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "class WNDCLASS(ctypes.Structure):\n    _fields_ = [\n        (\"style\", wintypes.UINT),\n        (\"lpfnWndProc\", wintypes.WNDPROC),\n        (\"cbClsExtra\", ctypes.c_int),\n        (\"cbWndExtra\", ctypes.c_int),\n        (\"hInstance\", HINSTANCE),\n        (\"hIcon\", HICON),\n        (\"hCursor\", HCURSOR),\n        (\"hbrBackground\", HBRUSH),",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "MSG",
+        "kind": 6,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "class MSG(ctypes.Structure):\n    _fields_ = [\n        (\"hwnd\", HWND),\n        (\"message\", UINT),\n        (\"wParam\", WPARAM),\n        (\"lParam\", LPARAM),\n        (\"time\", DWORD),\n        (\"pt\", wintypes.POINT),\n    ]",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "HWND",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "HWND = wintypes.HWND\nHINSTANCE = wintypes.HANDLE\nHDC = wintypes.HANDLE\nHGLRC = wintypes.HANDLE\nHRGN = wintypes.HANDLE\ntry:\n    HICON = wintypes.HICON\nexcept AttributeError:\n    HICON = wintypes.HANDLE\ntry:",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "HINSTANCE",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "HINSTANCE = wintypes.HANDLE\nHDC = wintypes.HANDLE\nHGLRC = wintypes.HANDLE\nHRGN = wintypes.HANDLE\ntry:\n    HICON = wintypes.HICON\nexcept AttributeError:\n    HICON = wintypes.HANDLE\ntry:\n    HCURSOR = wintypes.HCURSOR",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "HDC",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "HDC = wintypes.HANDLE\nHGLRC = wintypes.HANDLE\nHRGN = wintypes.HANDLE\ntry:\n    HICON = wintypes.HICON\nexcept AttributeError:\n    HICON = wintypes.HANDLE\ntry:\n    HCURSOR = wintypes.HCURSOR\nexcept AttributeError:",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "HGLRC",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "HGLRC = wintypes.HANDLE\nHRGN = wintypes.HANDLE\ntry:\n    HICON = wintypes.HICON\nexcept AttributeError:\n    HICON = wintypes.HANDLE\ntry:\n    HCURSOR = wintypes.HCURSOR\nexcept AttributeError:\n    HCURSOR = wintypes.HANDLE",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "HRGN",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "HRGN = wintypes.HANDLE\ntry:\n    HICON = wintypes.HICON\nexcept AttributeError:\n    HICON = wintypes.HANDLE\ntry:\n    HCURSOR = wintypes.HCURSOR\nexcept AttributeError:\n    HCURSOR = wintypes.HANDLE\ntry:",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "HMODULE",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "HMODULE = wintypes.HANDLE\n# Integer types\nDWORD = wintypes.DWORD\nUINT = wintypes.UINT\nWORD = wintypes.WORD\nBYTE = wintypes.BYTE\nLONG = wintypes.LONG\nBOOL = wintypes.BOOL\n# WPARAM, LPARAM, LRESULT depend on pointer size (32 or 64 bit)\nif ctypes.sizeof(ctypes.c_void_p) == 8:",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "DWORD",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "DWORD = wintypes.DWORD\nUINT = wintypes.UINT\nWORD = wintypes.WORD\nBYTE = wintypes.BYTE\nLONG = wintypes.LONG\nBOOL = wintypes.BOOL\n# WPARAM, LPARAM, LRESULT depend on pointer size (32 or 64 bit)\nif ctypes.sizeof(ctypes.c_void_p) == 8:\n    WPARAM = ctypes.c_ulonglong  # 64-bit unsigned\n    LPARAM = ctypes.c_longlong   # 64-bit signed",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "UINT",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "UINT = wintypes.UINT\nWORD = wintypes.WORD\nBYTE = wintypes.BYTE\nLONG = wintypes.LONG\nBOOL = wintypes.BOOL\n# WPARAM, LPARAM, LRESULT depend on pointer size (32 or 64 bit)\nif ctypes.sizeof(ctypes.c_void_p) == 8:\n    WPARAM = ctypes.c_ulonglong  # 64-bit unsigned\n    LPARAM = ctypes.c_longlong   # 64-bit signed\n    LRESULT = ctypes.c_longlong",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "WORD",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "WORD = wintypes.WORD\nBYTE = wintypes.BYTE\nLONG = wintypes.LONG\nBOOL = wintypes.BOOL\n# WPARAM, LPARAM, LRESULT depend on pointer size (32 or 64 bit)\nif ctypes.sizeof(ctypes.c_void_p) == 8:\n    WPARAM = ctypes.c_ulonglong  # 64-bit unsigned\n    LPARAM = ctypes.c_longlong   # 64-bit signed\n    LRESULT = ctypes.c_longlong\nelse:",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "BYTE",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "BYTE = wintypes.BYTE\nLONG = wintypes.LONG\nBOOL = wintypes.BOOL\n# WPARAM, LPARAM, LRESULT depend on pointer size (32 or 64 bit)\nif ctypes.sizeof(ctypes.c_void_p) == 8:\n    WPARAM = ctypes.c_ulonglong  # 64-bit unsigned\n    LPARAM = ctypes.c_longlong   # 64-bit signed\n    LRESULT = ctypes.c_longlong\nelse:\n    WPARAM = ctypes.c_ulong      # 32-bit unsigned",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "LONG",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "LONG = wintypes.LONG\nBOOL = wintypes.BOOL\n# WPARAM, LPARAM, LRESULT depend on pointer size (32 or 64 bit)\nif ctypes.sizeof(ctypes.c_void_p) == 8:\n    WPARAM = ctypes.c_ulonglong  # 64-bit unsigned\n    LPARAM = ctypes.c_longlong   # 64-bit signed\n    LRESULT = ctypes.c_longlong\nelse:\n    WPARAM = ctypes.c_ulong      # 32-bit unsigned\n    LPARAM = ctypes.c_long       # 32-bit signed",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "BOOL",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "BOOL = wintypes.BOOL\n# WPARAM, LPARAM, LRESULT depend on pointer size (32 or 64 bit)\nif ctypes.sizeof(ctypes.c_void_p) == 8:\n    WPARAM = ctypes.c_ulonglong  # 64-bit unsigned\n    LPARAM = ctypes.c_longlong   # 64-bit signed\n    LRESULT = ctypes.c_longlong\nelse:\n    WPARAM = ctypes.c_ulong      # 32-bit unsigned\n    LPARAM = ctypes.c_long       # 32-bit signed\n    LRESULT = ctypes.c_long",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "WNDPROCTYPE",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "WNDPROCTYPE = ctypes.WINFUNCTYPE(LRESULT, HWND, UINT, WPARAM, LPARAM)\nwintypes.WNDPROC = WNDPROCTYPE  # attach for convenience\n# WNDCLASS structure (for RegisterClass/Ex)\nclass WNDCLASS(ctypes.Structure):\n    _fields_ = [\n        (\"style\", wintypes.UINT),\n        (\"lpfnWndProc\", wintypes.WNDPROC),\n        (\"cbClsExtra\", ctypes.c_int),\n        (\"cbWndExtra\", ctypes.c_int),\n        (\"hInstance\", HINSTANCE),",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "wintypes.WNDPROC",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.types",
+        "description": "src.aphelion.core.win32.types",
+        "peekOfCode": "wintypes.WNDPROC = WNDPROCTYPE  # attach for convenience\n# WNDCLASS structure (for RegisterClass/Ex)\nclass WNDCLASS(ctypes.Structure):\n    _fields_ = [\n        (\"style\", wintypes.UINT),\n        (\"lpfnWndProc\", wintypes.WNDPROC),\n        (\"cbClsExtra\", ctypes.c_int),\n        (\"cbWndExtra\", ctypes.c_int),\n        (\"hInstance\", HINSTANCE),\n        (\"hIcon\", HICON),",
+        "detail": "src.aphelion.core.win32.types",
+        "documentation": {}
+    },
+    {
+        "label": "_Win32Window",
+        "kind": 6,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "class _Win32Window:\n    _class_registered = False\n    _hwnd_instance_map = {}\n    def __init__(self, width=800, height=600, title=\"Aphelion\", class_name=\"AphelionWindowInstance\"):\n        self.hInstance = kernel32.GetModuleHandleW(None)\n        self.class_name = class_name\n        self.hwnd = self.hdc = self.hglrc = None\n        self.exit_requested = False\n        if not _Win32Window._class_registered:\n            wc = WNDCLASS()",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "create_opengl_context_with_retry",
+        "kind": 2,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "def create_opengl_context_with_retry(hdc, retries=5, delay=0.2):\n    last_error = \"\"\n    for i in range(retries):\n        try:\n            if i: time.sleep(delay)\n            ctx = create_opengl_context(hdc)\n            print(\"[INFO] OpenGL context created.\")\n            return ctx\n        except RuntimeError as e:\n            last_error = str(e)",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "user32.DefWindowProcW.restype",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "user32.DefWindowProcW.restype = LRESULT\nuser32.DefWindowProcW.argtypes = [HWND, UINT, WPARAM, LPARAM]\nuser32.DestroyWindow.argtypes = [HWND]\nuser32.ReleaseDC.argtypes = [HWND, wintypes.HDC]\nuser32.ShowWindow.argtypes = [HWND, ctypes.c_int]\nuser32.PeekMessageW.argtypes = [ctypes.POINTER(wintypes.MSG), HWND, UINT, UINT, UINT]\nuser32.TranslateMessage.argtypes = [ctypes.POINTER(wintypes.MSG)]\nuser32.DispatchMessageW.argtypes = [ctypes.POINTER(wintypes.MSG)]\nWS_OVERLAPPEDWINDOW = 0x00CF0000\nIDC_ARROW, SW_SHOW = 32512, 1",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "user32.DefWindowProcW.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "user32.DefWindowProcW.argtypes = [HWND, UINT, WPARAM, LPARAM]\nuser32.DestroyWindow.argtypes = [HWND]\nuser32.ReleaseDC.argtypes = [HWND, wintypes.HDC]\nuser32.ShowWindow.argtypes = [HWND, ctypes.c_int]\nuser32.PeekMessageW.argtypes = [ctypes.POINTER(wintypes.MSG), HWND, UINT, UINT, UINT]\nuser32.TranslateMessage.argtypes = [ctypes.POINTER(wintypes.MSG)]\nuser32.DispatchMessageW.argtypes = [ctypes.POINTER(wintypes.MSG)]\nWS_OVERLAPPEDWINDOW = 0x00CF0000\nIDC_ARROW, SW_SHOW = 32512, 1\nPM_REMOVE, WM_CLOSE, CS_OWNDC = 0x0001, 0x0010, 0x0020",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "user32.DestroyWindow.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "user32.DestroyWindow.argtypes = [HWND]\nuser32.ReleaseDC.argtypes = [HWND, wintypes.HDC]\nuser32.ShowWindow.argtypes = [HWND, ctypes.c_int]\nuser32.PeekMessageW.argtypes = [ctypes.POINTER(wintypes.MSG), HWND, UINT, UINT, UINT]\nuser32.TranslateMessage.argtypes = [ctypes.POINTER(wintypes.MSG)]\nuser32.DispatchMessageW.argtypes = [ctypes.POINTER(wintypes.MSG)]\nWS_OVERLAPPEDWINDOW = 0x00CF0000\nIDC_ARROW, SW_SHOW = 32512, 1\nPM_REMOVE, WM_CLOSE, CS_OWNDC = 0x0001, 0x0010, 0x0020\ndef create_opengl_context_with_retry(hdc, retries=5, delay=0.2):",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "user32.ReleaseDC.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "user32.ReleaseDC.argtypes = [HWND, wintypes.HDC]\nuser32.ShowWindow.argtypes = [HWND, ctypes.c_int]\nuser32.PeekMessageW.argtypes = [ctypes.POINTER(wintypes.MSG), HWND, UINT, UINT, UINT]\nuser32.TranslateMessage.argtypes = [ctypes.POINTER(wintypes.MSG)]\nuser32.DispatchMessageW.argtypes = [ctypes.POINTER(wintypes.MSG)]\nWS_OVERLAPPEDWINDOW = 0x00CF0000\nIDC_ARROW, SW_SHOW = 32512, 1\nPM_REMOVE, WM_CLOSE, CS_OWNDC = 0x0001, 0x0010, 0x0020\ndef create_opengl_context_with_retry(hdc, retries=5, delay=0.2):\n    last_error = \"\"",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "user32.ShowWindow.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "user32.ShowWindow.argtypes = [HWND, ctypes.c_int]\nuser32.PeekMessageW.argtypes = [ctypes.POINTER(wintypes.MSG), HWND, UINT, UINT, UINT]\nuser32.TranslateMessage.argtypes = [ctypes.POINTER(wintypes.MSG)]\nuser32.DispatchMessageW.argtypes = [ctypes.POINTER(wintypes.MSG)]\nWS_OVERLAPPEDWINDOW = 0x00CF0000\nIDC_ARROW, SW_SHOW = 32512, 1\nPM_REMOVE, WM_CLOSE, CS_OWNDC = 0x0001, 0x0010, 0x0020\ndef create_opengl_context_with_retry(hdc, retries=5, delay=0.2):\n    last_error = \"\"\n    for i in range(retries):",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "user32.PeekMessageW.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "user32.PeekMessageW.argtypes = [ctypes.POINTER(wintypes.MSG), HWND, UINT, UINT, UINT]\nuser32.TranslateMessage.argtypes = [ctypes.POINTER(wintypes.MSG)]\nuser32.DispatchMessageW.argtypes = [ctypes.POINTER(wintypes.MSG)]\nWS_OVERLAPPEDWINDOW = 0x00CF0000\nIDC_ARROW, SW_SHOW = 32512, 1\nPM_REMOVE, WM_CLOSE, CS_OWNDC = 0x0001, 0x0010, 0x0020\ndef create_opengl_context_with_retry(hdc, retries=5, delay=0.2):\n    last_error = \"\"\n    for i in range(retries):\n        try:",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "user32.TranslateMessage.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "user32.TranslateMessage.argtypes = [ctypes.POINTER(wintypes.MSG)]\nuser32.DispatchMessageW.argtypes = [ctypes.POINTER(wintypes.MSG)]\nWS_OVERLAPPEDWINDOW = 0x00CF0000\nIDC_ARROW, SW_SHOW = 32512, 1\nPM_REMOVE, WM_CLOSE, CS_OWNDC = 0x0001, 0x0010, 0x0020\ndef create_opengl_context_with_retry(hdc, retries=5, delay=0.2):\n    last_error = \"\"\n    for i in range(retries):\n        try:\n            if i: time.sleep(delay)",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "user32.DispatchMessageW.argtypes",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "user32.DispatchMessageW.argtypes = [ctypes.POINTER(wintypes.MSG)]\nWS_OVERLAPPEDWINDOW = 0x00CF0000\nIDC_ARROW, SW_SHOW = 32512, 1\nPM_REMOVE, WM_CLOSE, CS_OWNDC = 0x0001, 0x0010, 0x0020\ndef create_opengl_context_with_retry(hdc, retries=5, delay=0.2):\n    last_error = \"\"\n    for i in range(retries):\n        try:\n            if i: time.sleep(delay)\n            ctx = create_opengl_context(hdc)",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "WS_OVERLAPPEDWINDOW",
+        "kind": 5,
+        "importPath": "src.aphelion.core.win32.window",
+        "description": "src.aphelion.core.win32.window",
+        "peekOfCode": "WS_OVERLAPPEDWINDOW = 0x00CF0000\nIDC_ARROW, SW_SHOW = 32512, 1\nPM_REMOVE, WM_CLOSE, CS_OWNDC = 0x0001, 0x0010, 0x0020\ndef create_opengl_context_with_retry(hdc, retries=5, delay=0.2):\n    last_error = \"\"\n    for i in range(retries):\n        try:\n            if i: time.sleep(delay)\n            ctx = create_opengl_context(hdc)\n            print(\"[INFO] OpenGL context created.\")",
+        "detail": "src.aphelion.core.win32.window",
+        "documentation": {}
+    },
+    {
+        "label": "Passes",
+        "kind": 6,
+        "importPath": "src.aphelion.core.pipeline_manager",
+        "description": "src.aphelion.core.pipeline_manager",
+        "peekOfCode": "class Passes:\n    UseClearColor = _glClearColor\n    EnableGLDepthTest = lambda: _glEnable(GL_DEPTH_TEST)\n    EnableGLBlend = lambda: _glEnable(GL_BLEND)\n    RunClear = lambda: _glClear(GL_COLOR_BUFFER_BIT, GL_DEPTH_BUFFER_BIT)\nclass RenderingPipelineManager(object):\n    def __init__(self):\n        self._active_passes = []\n    def addPass(self, _pass: callable):",
+        "detail": "src.aphelion.core.pipeline_manager",
+        "documentation": {}
+    },
+    {
+        "label": "RenderingPipelineManager",
+        "kind": 6,
+        "importPath": "src.aphelion.core.pipeline_manager",
+        "description": "src.aphelion.core.pipeline_manager",
+        "peekOfCode": "class RenderingPipelineManager(object):\n    def __init__(self):\n        self._active_passes = []\n    def addPass(self, _pass: callable):",
+        "detail": "src.aphelion.core.pipeline_manager",
+        "documentation": {}
+    },
+    {
+        "label": "_WindowInstance",
+        "kind": 6,
+        "importPath": "src.aphelion.window",
+        "description": "src.aphelion.window",
+        "peekOfCode": "class _WindowInstance(_Win32Window):\n    def __init__(self, width=800, height=600, title=\"Aphelion\", defer_gl_init=False):\n        super().__init__(width, height, title, f\"{title}_AphelionInstance\")\n        self._width = width\n        self._height = height\n        self._title = title\n        self._gl_initialized = not defer_gl_init\n        self._running = False\n    @property\n    def width(self):",
+        "detail": "src.aphelion.window",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.aphelion.window",
+        "description": "src.aphelion.window",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nlogging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')\nclass _WindowInstance(_Win32Window):\n    def __init__(self, width=800, height=600, title=\"Aphelion\", defer_gl_init=False):\n        super().__init__(width, height, title, f\"{title}_AphelionInstance\")\n        self._width = width\n        self._height = height\n        self._title = title\n        self._gl_initialized = not defer_gl_init\n        self._running = False",
+        "detail": "src.aphelion.window",
+        "documentation": {}
+    },
+    {
+        "label": "App",
+        "kind": 6,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "class App(_WindowInstance):\n    def on_start(self):\n        ...\n    def update(self):\n        ...\nif __name__ == \"__main__\":\n    app = App(800, 800)\n    app.run()\n    app.close()\n    del app",
+        "detail": "src.main",
+        "documentation": {}
+    }
+]
